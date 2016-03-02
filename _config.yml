@@ -1,7 +1,7 @@
 name: Hugo
 favicon: null
-layout_spectrum: 0.1773466793820262
-typography_spectrum: 0.6775366626679897
+layout_spectrum: 0.36802
+typography_spectrum: 0.76301
 title: Hugo
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.6649752811063081
-  lightness: 0.053580306470394135
-  saturation: 0.135964262066409
+  lightness: 0.75
+  saturation: 0.25
   rhythmicContrast: 0.3354735167231411
 purpose: []
