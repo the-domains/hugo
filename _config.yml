@@ -2,6 +2,7 @@ name: Hugo
 favicon: null
 layout_spectrum: 0.1773466793820262
 typography_spectrum: 0.6775366626679897
+title: Hugo
 cta:
   domain: null
   bucket: null
