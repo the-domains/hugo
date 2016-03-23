@@ -2,28 +2,35 @@
     <channel>
         <title><![CDATA[Hugo]]></title>
         <description><![CDATA[Hugo]]></description>
-        <link>http://www.holahugo.com/</link>
+        <link>http://holahugo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 19:38:24 GMT</lastBuildDate>
-        <atom:link href="http://www.holahugo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 18:21:30 GMT</lastBuildDate>
+        <atom:link href="http://holahugo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c6c8ae9-7fba-4a21-bbfd-0e542d234028.jpg">]]></description>
+            <link>http://holahugo.com/f913ce08-2339-45e7-9194-09fb72b3b077/index.html</link>
+            <guid isPermaLink="false">f913ce08-2339-45e7-9194-09fb72b3b077</guid>
+            <pubDate>Wed, 23 Mar 2016 18:20:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Let me tell you about Hugo. He's is a councelor, an online pharmacy, and a medical representative.]]></title>
-            <description><![CDATA[<article><h1>Let me tell you about Hugo. He's is a councelor, an online pharmacy, and a medical representative.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cd07f3f-ae90-4f32-8522-fe557f1bfff8.jpg"></article>]]></description>
-            <link>http://www.holahugo.com/let-me-tell-you-about-hugo-hes-is-a-councelor-an-online-p/index.html</link>
+            <description><![CDATA[<article><h1>Let me tell you about Hugo. He's is a councelor, an online pharmacy, and a medical representative.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/145353fcb04c31d3c9875396c3fc8b9cf449ebd3.jpg"></article>]]></description>
+            <link>http://holahugo.com/let-me-tell-you-about-hugo-hes-is-a-councelor-an-online-p/index.html</link>
             <guid isPermaLink="false">998ccfad-1e7e-41e1-b6c2-309f503d7e6a</guid>
             <pubDate>Wed, 02 Mar 2016 19:36:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc5508fd-746c-4857-868d-93fc6a912300.jpg">]]></description>
-            <link>http://www.holahugo.com/ec4e92ca-d426-4833-b3ae-7110fcdf9c1d/index.html</link>
+            <link>http://holahugo.com/ec4e92ca-d426-4833-b3ae-7110fcdf9c1d/index.html</link>
             <guid isPermaLink="false">ec4e92ca-d426-4833-b3ae-7110fcdf9c1d</guid>
             <pubDate>Wed, 02 Mar 2016 19:32:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62997c3c-df06-4fe6-a151-114d10036636.jpg">]]></description>
-            <link>http://www.holahugo.com/16fb9411-3657-469d-8313-fbb1fdde30e6/index.html</link>
+            <link>http://holahugo.com/16fb9411-3657-469d-8313-fbb1fdde30e6/index.html</link>
             <guid isPermaLink="false">16fb9411-3657-469d-8313-fbb1fdde30e6</guid>
             <pubDate>Wed, 02 Mar 2016 19:30:04 GMT</pubDate>
         </item>
